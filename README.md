@@ -1,1 +1,2 @@
 # Smart-PDF-Reader
+This user-friendly application leverages the power of Streamlit and Google AI to transform your PDFs into an interactive Faiss knowledge base. Simply upload your documents and ask questions! The app intelligently processes the PDFs, creating a searchable index using advanced AI techniques. By analyzing the content, it can answer your questions in detail, drawing from the information within the uploaded PDFs. So, unlock the hidden knowledge in your documents and have a conversation with your PDF.
